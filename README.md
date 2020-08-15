@@ -1,1 +1,1 @@
-# AppliedAI
+# Machine Learning
